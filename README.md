@@ -1,4 +1,4 @@
-# Code-Along: Building the `all?` method
+bundle install# Code-Along: Building the `all?` method
 
 ## Objectives
 
